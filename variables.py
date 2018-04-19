@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+﻿#!/usr/bin/env python
 # encoding: utf-8
 
 ###############################
@@ -24,7 +24,7 @@
 
 # ... Écrivez votre code ici ...
 
-
+a =2
 
 print(ma_variable)
 
